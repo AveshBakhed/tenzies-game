@@ -1,6 +1,6 @@
 # 🎲 Tenzies Game React App
 
-A fun and responsive dice game built with **React**, **Vite**, and **Tailwind CSS**.  
+A fun and responsive dice game built with **React**, **Vite**.
 The goal is simple: **roll until all dice show the same number**. Click on a die to “freeze” it while rolling the others.
 
 👉 **Live Demo:** [https://aveshbakhed.github.io/tenzies-game/](https://aveshbakhed.github.io/tenzies-game/)
@@ -11,7 +11,7 @@ The goal is simple: **roll until all dice show the same number**. Click on a die
 
 - 🕹 Interactive gameplay – hold/unhold dice between rolls
 - ⚡ Super-fast development with Vite
-- 🎨 Styled with Tailwind CSS
+- 🎨 Styled by CSS
 - 📱 Fully responsive for all screen sizes
 
 ---
